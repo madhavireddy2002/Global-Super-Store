@@ -5,7 +5,7 @@ Data analyst projects
 Global Superstore Sales Analysis using Python
 
 # Project Description
-This project is completed as part of the CodeAlpha Data Analytics Internship. The objective of this project is to perform Exploratory Data Analysis (EDA) on the Global Superstore dataset and extract meaningful business insights using Python.
+ The objective of this project is to perform Exploratory Data Analysis (EDA) on the Global Superstore dataset and extract meaningful business insights using Python.
 
 The project focuses on understanding sales performance, profit trends, customer behavior, and product categories through statistical analysis and data visualization.
 
